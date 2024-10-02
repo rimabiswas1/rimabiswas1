@@ -4,7 +4,6 @@
 
 We are seeking a skilled Back-end developer to become a part of our IT team. Your primary responsibility will involve managing the server side of our web applications. If you possess strong programming abilities and a dedication to creating new applications or enhancing existing ones, we would be eager to connect with you. In the role of Back-end developer, you will collaborate closely with our engineering team to ensure system reliability and enhance user experience. Ultimately, your goal will be to develop and sustain functional and stable web applications that align with our company's requirements.
 
-Contact With us
 
 Skills: Python/Flask/Django/RDBMS/Server/VUE JS / HTML / CSS/ JS
 
